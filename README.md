@@ -3,7 +3,7 @@ Accessibility improvements to Horiseon home site.
 
 ## Goal
     
-    Our goal was to modify the Horiseon home site to make it more accessable for search engine and assistive technology optimization.
+  Our goal was to modify the Horiseon home site to make it more accessable for search engine and assistive technology optimization.
 
 ## Link
  https://alexva397.github.io/horiseon-accessibility-improvement/
