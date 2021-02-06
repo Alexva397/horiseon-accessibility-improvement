@@ -127,11 +127,13 @@ section {
     color: #ffffff;
 }
 
+/*  aside benefits h3 styling */
 .benefit-h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* aside benefits img styling */
 .benefit-image {
     display: block;
     margin: 10px auto;
