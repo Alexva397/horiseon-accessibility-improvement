@@ -18,7 +18,7 @@ body {
 }
 
 /* title styling */
-.header h1 {
+.title {
     display: inline-block;
     font-size: 48px;
 }
