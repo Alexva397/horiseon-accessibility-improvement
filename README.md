@@ -1,2 +1,2 @@
-# horiseon_accessibility_improvements
+# horiseon-accessibility-improvements
 Accessibility improvements to Horiseon home site.
